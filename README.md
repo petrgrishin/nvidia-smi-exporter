@@ -1,4 +1,6 @@
 # nvidia-smi-exporter
+![Docker Pulls](https://img.shields.io/docker/pulls/petrgrishin/nvidia-smi-exporter?style=for-the-badge&color=orange&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fpetrgrishin%2Fnvidia-smi-exporter)
+
 Nvidia SMI metrics exporter for Prometheus
 
 ## Start daemon
